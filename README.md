@@ -1,4 +1,4 @@
-Example how to export hierarchy and recursive database by linq and EF
+Example how to export hierarchy and recursive database by linq and EF https://github.com/Alex1998100/LinqTest/blob/main/TT.Api/Controllers/ExportController1.cs
 
 
 
